@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Yuri Alves Mielli
+-Profissão: Desempregado  
+-Cidade: Sao Paulo
+-O que faz nas horas vaga: Jogo jogos no computador
+-Feedback sobre o curso Qualidade de Software: meu feedback sobre o curso é que em comparacao ao ti do zero ao pro ele falta em conteudo, por exemplo no ti do zero ao pro nós temos exercicios de quiz, temos uma opcao de reforcar termos que aprendemos em cada modulo etc. ao meu ver esse curso tem pouca atencao da escola em comparacao ao ti do zero ao pro.
+-Feedback sobre a plataforma de estudo da EBAC: 7/10
 
 Obrigado!!!
 
